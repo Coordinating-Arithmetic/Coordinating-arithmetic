@@ -16,7 +16,7 @@ Dr. Lee and HCDE PhD student Adam Hyland will conduct archival and documentary r
 
 Research and documentary information will be made available here as the project continues.
 
-* **Tuesday, September 19, 2023**: Project Funding [Announcement](announce)
+* **Thursday, September 21, 2023**: Project Funding [Announcement](announce)
 
 ## Investigators
 
