@@ -18,6 +18,10 @@ Research and documentary information will be made available here as the project 
 
 * **Thursday, September 21, 2023**: Project Funding [Announcement](announce)
 
+## Resources
+
+* Bibliographies on [floating point arithmetic](resources/fparith.html) and [elementary function computation](resources/elefunt.html) compiled by Nelson Beebe. Mirrors are updated manually. 
+
 ## Investigators
 
 * Charlotte P. Lee - Principal Investigator - [CSC Lab Website](https://depts.washington.edu/csclab/)
