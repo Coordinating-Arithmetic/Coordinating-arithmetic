@@ -20,7 +20,7 @@ Research and documentary information will be made available here as the project 
 
 ## Resources
 
-* Bibliographies on [floating point arithmetic](../resources/fparith.html) and [elementary function computation](../resources/elefunt.html) compiled by Nelson Beebe. Mirrors are updated manually. 
+* Bibliographies on [floating point arithmetic](../resources/utah-ftp/pub/tex/bib/fparith.html) and [elementary function computation](../resources/utah-ftp/pub/tex/bib//elefunt.html) compiled by Nelson Beebe. Mirrors are updated manually. 
 
 ## Investigators
 
